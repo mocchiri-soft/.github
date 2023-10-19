@@ -1,5 +1,17 @@
-## Hi there 👋
+# もっちりソフト のページ🍦
+## 出版物
+各号のページでリンク集、正誤表が確認できます。
+- Azure MixBook 23H1
+- [Azure MixBook 23H2](./azure-mix-book-23h2/README.md)
 
+
+## もっちりソフトとは？
+技術同人誌イベント「技術書典」への出展のために結成された、Microsoft 所属メンバーや旧メンバーなど、Azure や Microsoft 製品が好 きな有志メンバーによるチームです。
+
+## マスコットキャラクター
+*クリーミーバード*
+ソフトクリームの妖精。詳細は不明。
+![](./assets/creamy_bird.png)
 <!--
 
 **Here are some ideas to get you started:**

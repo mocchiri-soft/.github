@@ -2,7 +2,7 @@
 ## 出版物
 各号のページでリンク集、正誤表が確認できます。
 - Azure MixBook 23H1
-- [Azure MixBook 23H2](./azure-mix-book-23h2/README.md)
+- [Azure MixBook 23H2](./profile/azure-mix-book-23h2/README.md)
 
 
 ## もっちりソフトとは？
@@ -11,7 +11,7 @@
 ## マスコットキャラクター
 *クリーミーバード*
 ソフトクリームの妖精。詳細は不明。
-![](./assets/creamy_bird.png)
+![](./profile/assets/creamy_bird.png)
 <!--
 
 **Here are some ideas to get you started:**

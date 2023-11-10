@@ -14,7 +14,7 @@
 - *1 https://letspowershell.blogspot.com/2015/07/powershell_9.html
 - *2 https://github.com/kzk839/PowerShell/blob/main/Create-AzureSR/CreateAzureSR.ps1
 - *3 https://azure.microsoft.com/ja-jp/support/legal/faq/
-- *4 https://azure.microsoft.com/ja-jp/support/legal/faq/
+- *4 https://azure.microsoft.com/ja-jp/support/legal/faq/ (注釈 3 と重複しており、余分な注釈です)
 - *5 https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones?view=windows-11#time-zones
 - *6 https://learn.microsoft.com/ja-jp/dotnet/api/system.windows.forms.messagebox.show?view=windowsdesktop-7.0#system-windows-forms-messagebox-show(system-string-system-string-system-windows-forms-messageboxbuttons-system-windows-forms-messageboxicon-system-windows-forms-messageboxdefaultbutton
 - *7 https://learn.microsoft.com/ja-jp/dotnet/api/system.windows.forms.messageboxbuttons?view=windowsdesktop-7.0#-----*8

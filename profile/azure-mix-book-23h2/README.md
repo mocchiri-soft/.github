@@ -3,7 +3,7 @@
 
 
 ## 購入ページ
-Coming soon...
+[技術書典マーケット](https://techbookfest.org/product/qqrdDvMxMvYJbPpRknmhrA?productVariantID=xdb3GHu1AQAChQaLXUUKu5)
 
 ## リンク集
 各章に掲載しているリンクをまとめています。

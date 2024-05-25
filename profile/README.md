@@ -4,6 +4,8 @@
 - Azure MixBook 23H1
 - [Azure MixBook 23H2](https://github.com/mocchiri-soft/.github/blob/main/profile/azure-mix-book-23h2/README.md)
 
+- [Takeoff into Azure](https://github.com/mocchiri-soft/.github/blob/main/profile/takeoff-into-azure/README.md)
+
 
 ## もっちりソフトとは？
 技術同人誌イベント「技術書典」への出展のために結成された、Microsoft 所属メンバーや旧メンバーなど、Azure や Microsoft 製品が好 きな有志メンバーによるチームです。
